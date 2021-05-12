@@ -1,0 +1,15 @@
+.map-img {
+  height: 100vh;
+  background-image: url('../../assets/lady_destinations.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.auth-link {
+  text-decoration: none;
+  color: white;
+}
+.auth-link:hover {
+  text-decoration: none;
+  color: black;
+}

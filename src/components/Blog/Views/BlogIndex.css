@@ -1,0 +1,9 @@
+.blog-bg {
+  background-image: url('../../../assets/moments.svg');
+  background-repeat: no-repeat;
+  background-size: auto;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  background-position: left;
+  background-attachment: fixed;
+}

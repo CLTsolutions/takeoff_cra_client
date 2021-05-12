@@ -1,0 +1,8 @@
+.bg {
+  background-color: #ffffff;
+  background-position: center;
+  background-image: url('../../../assets/airplane.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-attachment: fixed;
+}
